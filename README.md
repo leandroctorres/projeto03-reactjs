@@ -10,11 +10,7 @@ Aplicando conhecimento adquirido no curso: "Desenvolvimento de aplicações para
 
 
 
-### Referência:
 
-* https://www.youtube.com/watch?v=ytE_IlF0xv8
-
-  
 
 # Getting Started with Create React App
 
